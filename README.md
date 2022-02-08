@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Wojtek
+#### Python developer
+I'm Wojtek from Poland, i really enjoy learning new things and develop my knowledge of languages and frameworks.
 
-<!--
-**Wojtek0115/Wojtek0115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Python/Java/SQL 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Wojtek0115)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/wojciech-zakrzewski-05b407216//)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Wojtek0115)  
+
+![Profile views](https://gpvc.arturio.dev/Wojtek0115)  
