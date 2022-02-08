@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Wojtek
-#### Python developer
 I'm Wojtek from Poland, i really enjoy learning new things and develop my knowledge of languages and frameworks.
 
 
